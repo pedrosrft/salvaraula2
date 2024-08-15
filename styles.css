@@ -1,0 +1,31 @@
+
+body {
+    background-color: #25888b;
+    color: aliceblue;
+    font-family: "Matemasie", sans-serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin: 20;
+
+
+
+      }
+
+      button {
+        background-color: #07425e;
+        color: white;
+        font-family: "Matemasie", sans-serif;
+    }
+
+    .passo {
+        display: none;
+    }
+
+    .passo.ativo {
+        display:block;
+    }
+    
+
